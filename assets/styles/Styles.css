@@ -1,5 +1,6 @@
 body { 
   background: #87CEEB;
+  font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
 }
 
 a {
@@ -49,6 +50,7 @@ a {
 .card-title {
   color: black;
   text-decoration: underline;
+  text-align: center;
 }
 
 .card-img {
@@ -80,4 +82,16 @@ a {
   100%{
     color: red;
   }
+}
+
+.row-title {
+  margin-top: 30px;
+  text-decoration: underline;
+  font-weight: bold;
+  font-size: 35px;
+}
+
+#addon-main {
+  font-weight: bolder;
+  text-decoration: solid, underline;
 }
