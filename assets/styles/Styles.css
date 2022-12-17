@@ -83,15 +83,3 @@ a {
     color: red;
   }
 }
-
-.row-title {
-  margin-top: 30px;
-  text-decoration: underline;
-  font-weight: bold;
-  font-size: 35px;
-}
-
-#addon-main {
-  font-weight: bolder;
-  text-decoration: solid, underline;
-}
